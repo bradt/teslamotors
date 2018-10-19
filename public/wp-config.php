@@ -1,5 +1,5 @@
 <?php
-
+echo "Blamo!";
 // ======================
 // Hide errors by default
 // ======================
